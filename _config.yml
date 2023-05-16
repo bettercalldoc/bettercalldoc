@@ -1,8 +1,8 @@
 # Site settings
 theme: minima
-title: Better Call Doc!
-email: callme@bettercalldoc.online
-description: > Stay active and healthy as long as you can!
+title: "Better Call Doc!"
+email: "callme@bettercalldoc.online"
+description: "Stay active and healthy as long as you can!"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.bettercalldoc.online" # the base hostname & protocol for your site
 

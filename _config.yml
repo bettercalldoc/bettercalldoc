@@ -1,9 +1,9 @@
 # Site settings
-title: "Better Call Doc!"
-email: "callme@bettercalldoc.online"
-description: "Stay active and healthy as long as you can!"
+title: "HEAR Health"
+email: "hello@herehealth.online"
+description: "Your personal health assistant"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://www.bettercalldoc.online" # the base hostname & protocol for your site
+url: "http://www.herahealth.online" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
